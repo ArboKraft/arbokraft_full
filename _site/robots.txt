@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://arbokraft.github.io//sitemap.xml

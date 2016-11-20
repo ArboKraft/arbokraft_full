@@ -3,7 +3,7 @@
 <head>
 		<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Message in Console</title>
+	<title>Search</title>
 	<link rel="stylesheet" type="text/css" href="https://arbokraft.github.io//assets/css/styles_feeling_responsive.css" />
 	<script src="https://arbokraft.github.io//assets/js/modernizr.min.js"></script>
 
@@ -104,9 +104,9 @@
 	<!-- Facebook Optimization -->
 	<meta property="og:locale" content="en_EN" />
 	
-	<meta property="og:title" content="Message in Console" />
+	<meta property="og:title" content="Search" />
 	<meta property="og:description" content="Learning programing and python the fun way : with Minecraft" />
-	<meta property="og:url" content="https://arbokraft.github.io///exercices/01-Message_in_console/" />
+	<meta property="og:url" content="https://arbokraft.github.io///search/" />
 	<meta property="og:site_name" content="ArboKraft" />
 	
 
@@ -178,7 +178,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="https://arbokraft.github.io//search/">Search</a></li>
+              <li class="active"><a href="https://arbokraft.github.io//search/">Search</a></li>
 
             
             
@@ -312,8 +312,8 @@
 				
 
 				<span itemprop="name">
-					<p class="subheadline">01</p>
-					<h1>Message in Console</h1>
+					
+					<h1>Search</h1>
 				</span>
 			</header>
 
@@ -321,8 +321,22 @@
 			
 
 			<span itemprop="articleSection">
-			<p>Hello
-<img src="http://192.168.168.203:4000/images//ekans-arbok.png" alt="Ekans and Arbok" /></p>
+			
+<script language="Javascript" type="text/javascript">
+	function google_search() {
+		var query = document.getElementById("google-search").value;
+		window.open("https://www.google.com/search?q=" + query + "+site:" + "https%3A%2F%2Farbokraft.github.io%2F%2F");
+	}
+</script>
+
+<form id="search" onsubmit="google_search(); return false;">
+	<input type="text" id="google-search" placeholder="Enter search term and hit enter" />
+</form>
+<noscript>
+	Search <a href="https://www.google.com/search?q=site:https%3A%2F%2Farbokraft.github.io%2F%2F" target="_blank">Google</a> for:
+	<pre><code>search-term site:https://arbokraft.github.io//</code></pre>
+</noscript>
+
 
 			</span>
 

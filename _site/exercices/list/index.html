@@ -3,7 +3,7 @@
 <head>
 		<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Message in Console</title>
+	<title>Exercices list</title>
 	<link rel="stylesheet" type="text/css" href="https://arbokraft.github.io//assets/css/styles_feeling_responsive.css" />
 	<script src="https://arbokraft.github.io//assets/js/modernizr.min.js"></script>
 
@@ -22,7 +22,7 @@
 
   
 	
-	<meta name="description" content="Learning programing and python the fun way : with Minecraft" />
+	<meta name="description" content="Click on a headline to read the teaser." />
 
 	
 
@@ -104,9 +104,9 @@
 	<!-- Facebook Optimization -->
 	<meta property="og:locale" content="en_EN" />
 	
-	<meta property="og:title" content="Message in Console" />
+	<meta property="og:title" content="Exercices list" />
 	<meta property="og:description" content="Learning programing and python the fun way : with Minecraft" />
-	<meta property="og:url" content="https://arbokraft.github.io///exercices/01-Message_in_console/" />
+	<meta property="og:url" content="https://arbokraft.github.io///exercices/list/" />
 	<meta property="og:site_name" content="ArboKraft" />
 	
 
@@ -122,7 +122,7 @@
 	
 </head>
 </head>
-<body id="top-of-page" class="post">
+<body id="top-of-page" class="">
 	
 	
 <div id="navigation" class="sticky">
@@ -226,7 +226,7 @@
 
             
             
-              <li><a href="https://arbokraft.github.io//exercices/list/">Exercices</a></li>
+              <li class="active"><a href="https://arbokraft.github.io//exercices/list/">Exercices</a></li>
               <li class="divider"></li>
 
             
@@ -287,7 +287,7 @@
 
 	
 
-<div id="masthead-no-image-header">
+<div id="masthead">
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="https://arbokraft.github.io/" title="ArboKraft – Python with Minecraft">
@@ -300,43 +300,58 @@
 
 
 
+<nav class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
+ <a href="https://arbokraft.github.io/">Start</a>
+ 
+   
+    
+        <a href="https://arbokraft.github.io//exercices/">exercices</a>
+    
+  
+    
+        <a class="current">Exercices list</a>
+    
+  
+</nav>
 
 
 
 
 
-	<div class="row t30">
-	<div class="medium-8 columns medium-offset-2 end">
-		<article itemscope itemtype="http://schema.org/Article">
-			<header>
-				
-
-				<span itemprop="name">
-					<p class="subheadline">01</p>
-					<h1>Message in Console</h1>
-				</span>
-			</header>
 
 
+
+
+
+
+	<div id="exercices-index" class="row">
+	<div class="small-12 columns t30">
+		<h1>Exercices list</h1>
+		<p class="teaser">Click on a headline to read the teaser.</p>
+
+		<dl class="accordion" data-accordion>
 			
-
-			<span itemprop="articleSection">
-			<p>Hello
-<img src="http://192.168.168.203:4000/images//ekans-arbok.png" alt="Ekans and Arbok" /></p>
-
-			</span>
-
 			
-
+			<dd class="accordion-navigation">
+			<a href="#panel1"><span class="iconfont"></span> 01 › <strong>Message in Console</strong></a>
+				<div id="panel1" class="content">
+					
+					<a href="https://arbokraft.github.io//exercices/01-Message_in_console/" title="Read Message in Console"><strong>Read More&nbsp;›</strong></a><br><br>
+				</div>
+			</dd>
 			
-		</article>
-	</div><!-- /.medium-8.columns -->
-
-
-	
-
-
-	
+			
+			<dd class="accordion-navigation">
+			<a href="#panel2"><span class="iconfont"></span> 02 › <strong>First block creation</strong></a>
+				<div id="panel2" class="content">
+					Here you&#39;ll know how to create a block
+					<a href="https://arbokraft.github.io//exercices/02-creating-a-block/" title="Read First block creation"><strong>Read More&nbsp;›</strong></a><br><br>
+				</div>
+			</dd>
+			
+			
+		</dl>
+	</div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 
 
@@ -475,6 +490,11 @@
 <script src="https://arbokraft.github.io//assets/js/javascript.min.js"></script>
 
 
+
+<script>
+    $("#masthead").backstretch("http://192.168.168.203:4000/images/you-can-delete-me-header.png", {fade: 700});
+    $("#masthead-with-text").backstretch("http://192.168.168.203:4000/images/you-can-delete-me-header.png", {fade: 700});
+</script>
 
 
 
