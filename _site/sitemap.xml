@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 20 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 23 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>https://arbokraft.github.io/404.html</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>https://arbokraft.github.io/about/</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -37,7 +37,7 @@
 	<url>
 	<loc>https://arbokraft.github.io/blog/archive/</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,7 +54,7 @@
 	<url>
 	<loc>https://arbokraft.github.io/atom.xml</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +71,22 @@
 	<url>
 	<loc>https://arbokraft.github.io/contact/</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://arbokraft.github.io/category/exercices/</loc>
+	
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +101,7 @@
 	<url>
 	<loc>https://arbokraft.github.io/feed.xml</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +116,7 @@
 	<url>
 	<loc>https://arbokraft.github.io/humans.txt</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +131,7 @@
 	<url>
 	<loc>https://arbokraft.github.io/blog/</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +146,22 @@
 	<url>
 	<loc>https://arbokraft.github.io/exercices/</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://arbokraft.github.io/resources/</loc>
+	
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +176,22 @@
 	<url>
 	<loc>https://arbokraft.github.io/</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://arbokraft.github.io/category/news/</loc>
+	
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +206,22 @@
 	<url>
 	<loc>https://arbokraft.github.io/redirect-page/</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://arbokraft.github.io/category/resources/</loc>
+	
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +236,7 @@
 	<url>
 	<loc>https://arbokraft.github.io/robots.txt</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -195,7 +255,7 @@
 	<url>
 	<loc>https://arbokraft.github.io/search/</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -210,7 +270,7 @@
 	<url>
 	<loc>https://arbokraft.github.io/sitemap.xml</loc>
 	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
+		<lastmod>2016-11-20T23:24:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -223,27 +283,12 @@
 
 	
 
-	
-	<url>
-	<loc>https://arbokraft.github.io/blog/page2/</loc>
-	
-		<lastmod>2016-11-20T13:58:13+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
 
-
-<!-- Posts: 7 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 6 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
-	<loc>https://arbokraft.github.io/arbokraft/hello/welcome-to-arbokraft/</loc>
+	<loc>https://arbokraft.github.io/blog/welcome-to-arbokraft/</loc>
 	
 		<lastmod>2016-11-19T16:11:47+01:00</lastmod>
 	
@@ -258,7 +303,7 @@
 
 	
 	<url>
-	<loc>https://arbokraft.github.io/jekyll/update/welcome-to-jekyll/</loc>
+	<loc>https://arbokraft.github.io/blog/welcome-to-jekyll/</loc>
 	
 		<lastmod>2016-11-19T15:17:47+01:00</lastmod>
 	
@@ -273,7 +318,22 @@
 
 	
 	<url>
-	<loc>https://arbokraft.github.io/dummy/dummy-delete-me/</loc>
+	<loc>https://arbokraft.github.io/blog/news/Welcome-to-ArboKraft/</loc>
+	
+		<lastmod>2016-11-19T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://arbokraft.github.io/resources/blog/dummy-delete-me/</loc>
 	
 		<lastmod>2015-10-15T00:00:00+02:00</lastmod>
 	
@@ -288,37 +348,7 @@
 
 	
 	<url>
-	<loc>https://arbokraft.github.io/dummy/dummy-delete-me-copy-4/</loc>
-	
-		<lastmod>2015-10-13T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://arbokraft.github.io/dummy/dummy-delete-me-copy-5/</loc>
-	
-		<lastmod>2015-10-12T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://arbokraft.github.io/dummy/dummy-delete-me-copy-3/</loc>
+	<loc>https://arbokraft.github.io/blog/dummy-delete-me-copy-3/</loc>
 	
 		<lastmod>2015-10-11T00:00:00+02:00</lastmod>
 	
@@ -333,7 +363,7 @@
 
 	
 	<url>
-	<loc>https://arbokraft.github.io/dummy/dummy-delete-me-copy-2/</loc>
+	<loc>https://arbokraft.github.io/blog/dummy-delete-me-copy-2/</loc>
 	
 		<lastmod>2015-10-10T00:00:00+02:00</lastmod>
 	

@@ -1,29 +1,8 @@
 ---
-layout: default
-title: "Exercices list"
-teaser: "Click on a headline to read the teaser."
-breadcrumb: true
+layout: exercices
+title: Exercices Index
 header:
-   image_fullwidth: you-can-delete-me-header.png
-permalink: "exercices/"
+    image_fullwidth: "help-me-header.png"
+paginate:
+  collection: exercices
 ---
-<div id="exercices-index" class="row">
-	<div class="small-12 columns t30">
-		<h1>{{ page.title }}</h1>
-		{% if page.teaser %}<p class="teaser">{{ page.teaser }}</p>{% endif %}
-
-		<dl class="accordion" data-accordion>
-			{% assign counter = 1 %}
-			{% for exercice in site.exercices limit:1000 %}
-			<dd class="accordion-navigation">
-			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if exercice.subheadline %}{{ exercice.subheadline }} › {% endif %}<strong>{{ exercice.title }}</strong></a>
-				<div id="panel{{ counter }}" class="content">
-					{% if exercice.meta_description %}{{ exercice.meta_description | strip_html | escape }}{% elsif exercice.teaser %}{{ exercice.teaser | strip_html | escape }}{% endif %}
-					<a href="{{ site.url }}{{ exercice.url }}" title="Read {{ exercice.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
-				</div>
-			</dd>
-			{% assign counter=counter | plus:1 %}
-			{% endfor %}
-		</dl>
-	</div><!-- /.small-12.columns -->
-</div><!-- /.row -->

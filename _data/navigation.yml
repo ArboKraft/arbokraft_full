@@ -19,14 +19,21 @@
 - title: Exercices
   url: "/exercices/"
   side: left
+  header:
+    image_fullwidth: "you-can-delete-me-header.png"
     
+- title: Resources
+  url: "/resources/"
+  side: left
+  header:
+    image_fullwidth: "help-me-header.png"
 
 - title: Blog
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+#  dropdown:
+#  - title: "News Archive"
+#    url: "/news/archive/"
 
 #
 #   Navigation to the right › side: right

@@ -2,7 +2,8 @@
 layout: page
 title:  "Welcome to ArboKraft!"
 date:   2016-11-19 16:11:47 +0100
-categories: arbokraft hello
+categories: 
+ - blog
 ---
 
 ![Ekans to Arbok]({{ site.urlimg }}ekans-arbok.png)
