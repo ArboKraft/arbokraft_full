@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: page
 title:  "Welcome to ArboKraft!"
 date:   2016-11-19 16:11:47 +0100
 categories: arbokraft hello
 ---
 
-![Ekans to Arbok]({{site.url}}/assets/images/ekans-arbok.png)
+![Ekans to Arbok]({{ site.urlimg }}ekans-arbok.png)
 
 {% highlight python %}
 mc.postToChat("Hello ArboKraft")
