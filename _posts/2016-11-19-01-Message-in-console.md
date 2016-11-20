@@ -3,9 +3,9 @@ layout: page
 #
 # Content
 #
-subheadline: "02"
-title: "Message in console 2"
-teaser: "How to write a message in he console 2"
+subheadline: "01"
+title: "Message in console"
+teaser: "How to write a message in he console"
 categories:
   - exercices
 tags:

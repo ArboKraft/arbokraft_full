@@ -12,7 +12,7 @@
 				<title>Welcome to ArboKraft!</title>
 				<link>https://arbokraft.github.io/blog/welcome-to-arbokraft/</link>
 				<pubDate>Sat, 19 Nov 2016 16:11:47 +0100</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;http://192.168.168.203:4000/images/ekans-arbok.png&quot; alt=&quot;Ekans to Arbok&quot; /&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;https://arbokraft.github.io/images/ekans-arbok.png&quot; alt=&quot;Ekans to Arbok&quot; /&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;mc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;postToChat&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello ArboKraft&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
@@ -49,9 +49,29 @@
 				<link>https://arbokraft.github.io/blog/news/Welcome-to-ArboKraft/</link>
 				<pubDate>Sat, 19 Nov 2016 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;Hello
-&lt;img src=&quot;http://192.168.168.203:4000/images//ekans-arbok.png&quot; alt=&quot;Ekans and Arbok&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://arbokraft.github.io/images//ekans-arbok.png&quot; alt=&quot;Ekans and Arbok&quot; /&gt;&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">https://arbokraft.github.io/blog/news/Welcome-to-ArboKraft/</guid>
+			</item>
+		
+			<item>
+				<title>Message in console</title>
+				<link>https://arbokraft.github.io/blog/02-Creating-a-single-block/</link>
+				<pubDate>Sat, 19 Nov 2016 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Hello
+&lt;img src=&quot;https://arbokraft.github.io/images//ekans-arbok.png&quot; alt=&quot;Ekans and Arbok&quot; /&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://arbokraft.github.io/blog/02-Creating-a-single-block/</guid>
+			</item>
+		
+			<item>
+				<title>Message in console</title>
+				<link>https://arbokraft.github.io/exercices/01-Message-in-console/</link>
+				<pubDate>Sat, 19 Nov 2016 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Hello
+&lt;img src=&quot;https://arbokraft.github.io/images//ekans-arbok.png&quot; alt=&quot;Ekans and Arbok&quot; /&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://arbokraft.github.io/exercices/01-Message-in-console/</guid>
 			</item>
 		
 			<item>

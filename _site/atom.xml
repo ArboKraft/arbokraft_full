@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://arbokraft.github.io/</id>
 	<title>ArboKraft</title>
-	<updated>2016-11-20T23:24:40+01:00</updated>
+	<updated>2016-11-21T00:03:48+01:00</updated>
 
 	<subtitle>Learning programing and python the fun way : with Minecraft</subtitle>
 
@@ -46,7 +46,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="https://arbokraft.github.io/blog/welcome-to-arbokraft/">&lt;p&gt;&lt;img src=&quot;http://192.168.168.203:4000/images/ekans-arbok.png&quot; alt=&quot;Ekans to Arbok&quot; /&gt;&lt;/p&gt;
+			<content type="html" xml:base="https://arbokraft.github.io/blog/welcome-to-arbokraft/">&lt;p&gt;&lt;img src=&quot;https://arbokraft.github.io/images/ekans-arbok.png&quot; alt=&quot;Ekans to Arbok&quot; /&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;mc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;postToChat&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello ArboKraft&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
@@ -125,7 +125,7 @@
 			
 			<summary>Here we go !!</summary>
 			<content type="html" xml:base="https://arbokraft.github.io/blog/news/Welcome-to-ArboKraft/">&lt;p&gt;Hello
-&lt;img src=&quot;http://192.168.168.203:4000/images//ekans-arbok.png&quot; alt=&quot;Ekans and Arbok&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://arbokraft.github.io/images//ekans-arbok.png&quot; alt=&quot;Ekans and Arbok&quot; /&gt;&lt;/p&gt;
 </content>
 
 			
@@ -137,6 +137,78 @@
 				<category term="blog" />
 			
 				<category term="news" />
+			
+
+			<published>2016-11-19T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://arbokraft.github.io/blog/02-Creating-a-single-block/</id>
+			<title>Message in console</title>
+			<link href="https://arbokraft.github.io/blog/02-Creating-a-single-block/" rel="alternate" type="text/html" title="Message in console" />
+			<updated>2016-11-19T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>ArboKraft</name>
+					
+					
+					
+						<uri>https://arbokraft.github.io/</uri>
+					
+				</author>
+			
+			<summary>How to write a message in he console</summary>
+			<content type="html" xml:base="https://arbokraft.github.io/blog/02-Creating-a-single-block/">&lt;p&gt;Hello
+&lt;img src=&quot;https://arbokraft.github.io/images//ekans-arbok.png&quot; alt=&quot;Ekans and Arbok&quot; /&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="blog" />
+			
+				<category term="mc.setBLock" />
+			
+
+			<published>2016-11-19T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://arbokraft.github.io/exercices/01-Message-in-console/</id>
+			<title>Message in console</title>
+			<link href="https://arbokraft.github.io/exercices/01-Message-in-console/" rel="alternate" type="text/html" title="Message in console" />
+			<updated>2016-11-19T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>ArboKraft</name>
+					
+					
+					
+						<uri>https://arbokraft.github.io/</uri>
+					
+				</author>
+			
+			<summary>How to write a message in he console</summary>
+			<content type="html" xml:base="https://arbokraft.github.io/exercices/01-Message-in-console/">&lt;p&gt;Hello
+&lt;img src=&quot;https://arbokraft.github.io/images//ekans-arbok.png&quot; alt=&quot;Ekans and Arbok&quot; /&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="exercices" />
+			
+			
+				<category term="exercices" />
+			
+				<category term="mc.postToChat" />
+			
+				<category term="console" />
 			
 
 			<published>2016-11-19T00:00:00+01:00</published>

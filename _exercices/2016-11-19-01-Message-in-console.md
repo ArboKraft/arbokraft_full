@@ -1,10 +1,11 @@
 ---
-layout: blog
+layout: page
 #
 # Content
 #
-subheadline: "01"
+subheadline: "Exercice 01"
 title: "Message in console"
+date:   2016-11-19 16:11:47 +0100
 teaser: "How to write a message in he console"
 categories:
   - exercices
@@ -12,6 +13,7 @@ tags:
   - exercices
   - mc.postToChat
   - console
+show_meta: true
 #
 # Styling
 #
@@ -23,7 +25,10 @@ image:
   url: "http://phlow.de/"
 ---
 
-
-
-Hello
 ![Ekans and Arbok]({{ site.urlimg }}/ekans-arbok.png)
+
+In this first lesson we will show how to write a message in the console.
+
+{% highlight python %}
+mc.postToChat("Hello ArboKraft")
+{% endhighlight %}

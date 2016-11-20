@@ -1,5 +1,6 @@
 ---
 layout: page
+subheadline: "Welcome"
 title:  "Welcome to ArboKraft!"
 date:   2016-11-19 16:11:47 +0100
 categories: 

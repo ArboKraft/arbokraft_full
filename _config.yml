@@ -38,8 +38,8 @@ improve_content: https://github.com/arbokraft/arbokraft.github.io/edit/master
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-#urlimg: 'https://arbokraft.github.io/images/'
-urlimg: 'http://192.168.168.203:4000/images/'
+urlimg: 'https://arbokraft.github.io/images/'
+#urlimg: 'http://192.168.168.203:4000/images/'
 
 
 # Logo size is 600x80 pixels
