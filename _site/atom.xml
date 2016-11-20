@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>https://arbokraft.github.io//</id>
+	<id>https://arbokraft.github.io/</id>
 	<title>ArboKraft</title>
-	<updated>2016-11-20T13:32:20+01:00</updated>
+	<updated>2016-11-20T13:44:15+01:00</updated>
 
 	<subtitle>Learning programing and python the fun way : with Minecraft</subtitle>
 
@@ -21,16 +21,16 @@
 		</author>
 	
 
-	<link href="https://arbokraft.github.io//atom.xml" rel="self" type="application/rss+xml" />
-	<link href="https://arbokraft.github.io//" rel="alternate" type="text/html" />
+	<link href="https://arbokraft.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://arbokraft.github.io/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator>
 
 	
 		<entry>
-			<id>https://arbokraft.github.io//arbokraft/hello/welcome-to-arbokraft/</id>
+			<id>https://arbokraft.github.io/arbokraft/hello/welcome-to-arbokraft/</id>
 			<title>Welcome to ArboKraft!</title>
-			<link href="https://arbokraft.github.io//arbokraft/hello/welcome-to-arbokraft/" rel="alternate" type="text/html" title="Welcome to ArboKraft!" />
+			<link href="https://arbokraft.github.io/arbokraft/hello/welcome-to-arbokraft/" rel="alternate" type="text/html" title="Welcome to ArboKraft!" />
 			<updated>2016-11-19T16:11:47+01:00</updated>
 
 			
@@ -46,7 +46,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="https://arbokraft.github.io//arbokraft/hello/welcome-to-arbokraft/">&lt;p&gt;&lt;img src=&quot;http://192.168.168.203:4000/images/ekans-arbok.png&quot; alt=&quot;Ekans to Arbok&quot; /&gt;&lt;/p&gt;
+			<content type="html" xml:base="https://arbokraft.github.io/arbokraft/hello/welcome-to-arbokraft/">&lt;p&gt;&lt;img src=&quot;https://arbokraft.github.io/images/ekans-arbok.png&quot; alt=&quot;Ekans to Arbok&quot; /&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;mc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;postToChat&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello ArboKraft&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
@@ -65,9 +65,9 @@
 		</entry>
 	
 		<entry>
-			<id>https://arbokraft.github.io//jekyll/update/welcome-to-jekyll/</id>
+			<id>https://arbokraft.github.io/jekyll/update/welcome-to-jekyll/</id>
 			<title>Welcome to Jekyll!</title>
-			<link href="https://arbokraft.github.io//jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
+			<link href="https://arbokraft.github.io/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
 			<updated>2016-11-19T15:17:47+01:00</updated>
 
 			
@@ -83,7 +83,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="https://arbokraft.github.io//jekyll/update/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+			<content type="html" xml:base="https://arbokraft.github.io/jekyll/update/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -110,9 +110,9 @@
 		</entry>
 	
 		<entry>
-			<id>https://arbokraft.github.io//dummy/dummy-delete-me/</id>
+			<id>https://arbokraft.github.io/dummy/dummy-delete-me/</id>
 			<title>You can delete this file</title>
-			<link href="https://arbokraft.github.io//dummy/dummy-delete-me/" rel="alternate" type="text/html" title="You can delete this file" />
+			<link href="https://arbokraft.github.io/dummy/dummy-delete-me/" rel="alternate" type="text/html" title="You can delete this file" />
 			<updated>2015-10-15T00:00:00+02:00</updated>
 
 			
@@ -128,7 +128,7 @@
 				</author>
 			
 			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
-			<content type="html" xml:base="https://arbokraft.github.io//dummy/dummy-delete-me/"></content>
+			<content type="html" xml:base="https://arbokraft.github.io/dummy/dummy-delete-me/"></content>
 
 			
 				<category term="dummy" />
@@ -141,9 +141,9 @@
 		</entry>
 	
 		<entry>
-			<id>https://arbokraft.github.io//dummy/dummy-delete-me-copy-4/</id>
+			<id>https://arbokraft.github.io/dummy/dummy-delete-me-copy-4/</id>
 			<title>You can delete this file</title>
-			<link href="https://arbokraft.github.io//dummy/dummy-delete-me-copy-4/" rel="alternate" type="text/html" title="You can delete this file" />
+			<link href="https://arbokraft.github.io/dummy/dummy-delete-me-copy-4/" rel="alternate" type="text/html" title="You can delete this file" />
 			<updated>2015-10-13T00:00:00+02:00</updated>
 
 			
@@ -159,7 +159,7 @@
 				</author>
 			
 			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
-			<content type="html" xml:base="https://arbokraft.github.io//dummy/dummy-delete-me-copy-4/"></content>
+			<content type="html" xml:base="https://arbokraft.github.io/dummy/dummy-delete-me-copy-4/"></content>
 
 			
 				<category term="dummy" />
@@ -172,9 +172,9 @@
 		</entry>
 	
 		<entry>
-			<id>https://arbokraft.github.io//dummy/dummy-delete-me-copy-5/</id>
+			<id>https://arbokraft.github.io/dummy/dummy-delete-me-copy-5/</id>
 			<title>You can delete this file</title>
-			<link href="https://arbokraft.github.io//dummy/dummy-delete-me-copy-5/" rel="alternate" type="text/html" title="You can delete this file" />
+			<link href="https://arbokraft.github.io/dummy/dummy-delete-me-copy-5/" rel="alternate" type="text/html" title="You can delete this file" />
 			<updated>2015-10-12T00:00:00+02:00</updated>
 
 			
@@ -190,7 +190,7 @@
 				</author>
 			
 			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
-			<content type="html" xml:base="https://arbokraft.github.io//dummy/dummy-delete-me-copy-5/"></content>
+			<content type="html" xml:base="https://arbokraft.github.io/dummy/dummy-delete-me-copy-5/"></content>
 
 			
 				<category term="dummy" />
@@ -203,9 +203,9 @@
 		</entry>
 	
 		<entry>
-			<id>https://arbokraft.github.io//dummy/dummy-delete-me-copy-3/</id>
+			<id>https://arbokraft.github.io/dummy/dummy-delete-me-copy-3/</id>
 			<title>You can delete this file</title>
-			<link href="https://arbokraft.github.io//dummy/dummy-delete-me-copy-3/" rel="alternate" type="text/html" title="You can delete this file" />
+			<link href="https://arbokraft.github.io/dummy/dummy-delete-me-copy-3/" rel="alternate" type="text/html" title="You can delete this file" />
 			<updated>2015-10-11T00:00:00+02:00</updated>
 
 			
@@ -221,7 +221,7 @@
 				</author>
 			
 			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
-			<content type="html" xml:base="https://arbokraft.github.io//dummy/dummy-delete-me-copy-3/"></content>
+			<content type="html" xml:base="https://arbokraft.github.io/dummy/dummy-delete-me-copy-3/"></content>
 
 			
 				<category term="dummy" />
@@ -234,9 +234,9 @@
 		</entry>
 	
 		<entry>
-			<id>https://arbokraft.github.io//dummy/dummy-delete-me-copy-2/</id>
+			<id>https://arbokraft.github.io/dummy/dummy-delete-me-copy-2/</id>
 			<title>You can delete this file</title>
-			<link href="https://arbokraft.github.io//dummy/dummy-delete-me-copy-2/" rel="alternate" type="text/html" title="You can delete this file" />
+			<link href="https://arbokraft.github.io/dummy/dummy-delete-me-copy-2/" rel="alternate" type="text/html" title="You can delete this file" />
 			<updated>2015-10-10T00:00:00+02:00</updated>
 
 			
@@ -252,7 +252,7 @@
 				</author>
 			
 			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
-			<content type="html" xml:base="https://arbokraft.github.io//dummy/dummy-delete-me-copy-2/"></content>
+			<content type="html" xml:base="https://arbokraft.github.io/dummy/dummy-delete-me-copy-2/"></content>
 
 			
 				<category term="dummy" />

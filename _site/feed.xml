@@ -5,26 +5,26 @@
 	<channel>
 		<title>ArboKraft</title>
 		<description>Learning programing and python the fun way : with Minecraft</description>
-		<link>https://arbokraft.github.io//</link>
-		<atom:link href="https://arbokraft.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://arbokraft.github.io/</link>
+		<atom:link href="https://arbokraft.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Welcome to ArboKraft!</title>
-				<link>https://arbokraft.github.io//arbokraft/hello/welcome-to-arbokraft/</link>
+				<link>https://arbokraft.github.io/arbokraft/hello/welcome-to-arbokraft/</link>
 				<pubDate>Sat, 19 Nov 2016 16:11:47 +0100</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;http://192.168.168.203:4000/images/ekans-arbok.png&quot; alt=&quot;Ekans to Arbok&quot; /&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;https://arbokraft.github.io/images/ekans-arbok.png&quot; alt=&quot;Ekans to Arbok&quot; /&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;mc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;postToChat&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello ArboKraft&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;We will share exercices to learn basic programing and &lt;a href=&quot;https://www.python.org/&quot;&gt;python&lt;/a&gt;  the fun way using &lt;a href=&quot;https://minecraft.net/&quot;&gt;Minecraft&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://arbokraft.github.io//arbokraft/hello/welcome-to-arbokraft/</guid>
+				<guid isPermaLink="true">https://arbokraft.github.io/arbokraft/hello/welcome-to-arbokraft/</guid>
 			</item>
 		
 			<item>
 				<title>Welcome to Jekyll!</title>
-				<link>https://arbokraft.github.io//jekyll/update/welcome-to-jekyll/</link>
+				<link>https://arbokraft.github.io/jekyll/update/welcome-to-jekyll/</link>
 				<pubDate>Sat, 19 Nov 2016 15:17:47 +0100</pubDate>
 				<description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
@@ -41,47 +41,47 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://arbokraft.github.io//jekyll/update/welcome-to-jekyll/</guid>
+				<guid isPermaLink="true">https://arbokraft.github.io/jekyll/update/welcome-to-jekyll/</guid>
 			</item>
 		
 			<item>
 				<title>You can delete this file</title>
-				<link>https://arbokraft.github.io//dummy/dummy-delete-me/</link>
+				<link>https://arbokraft.github.io/dummy/dummy-delete-me/</link>
 				<pubDate>Thu, 15 Oct 2015 00:00:00 +0200</pubDate>
 				<description></description>
-				<guid isPermaLink="true">https://arbokraft.github.io//dummy/dummy-delete-me/</guid>
+				<guid isPermaLink="true">https://arbokraft.github.io/dummy/dummy-delete-me/</guid>
 			</item>
 		
 			<item>
 				<title>You can delete this file</title>
-				<link>https://arbokraft.github.io//dummy/dummy-delete-me-copy-4/</link>
+				<link>https://arbokraft.github.io/dummy/dummy-delete-me-copy-4/</link>
 				<pubDate>Tue, 13 Oct 2015 00:00:00 +0200</pubDate>
 				<description></description>
-				<guid isPermaLink="true">https://arbokraft.github.io//dummy/dummy-delete-me-copy-4/</guid>
+				<guid isPermaLink="true">https://arbokraft.github.io/dummy/dummy-delete-me-copy-4/</guid>
 			</item>
 		
 			<item>
 				<title>You can delete this file</title>
-				<link>https://arbokraft.github.io//dummy/dummy-delete-me-copy-5/</link>
+				<link>https://arbokraft.github.io/dummy/dummy-delete-me-copy-5/</link>
 				<pubDate>Mon, 12 Oct 2015 00:00:00 +0200</pubDate>
 				<description></description>
-				<guid isPermaLink="true">https://arbokraft.github.io//dummy/dummy-delete-me-copy-5/</guid>
+				<guid isPermaLink="true">https://arbokraft.github.io/dummy/dummy-delete-me-copy-5/</guid>
 			</item>
 		
 			<item>
 				<title>You can delete this file</title>
-				<link>https://arbokraft.github.io//dummy/dummy-delete-me-copy-3/</link>
+				<link>https://arbokraft.github.io/dummy/dummy-delete-me-copy-3/</link>
 				<pubDate>Sun, 11 Oct 2015 00:00:00 +0200</pubDate>
 				<description></description>
-				<guid isPermaLink="true">https://arbokraft.github.io//dummy/dummy-delete-me-copy-3/</guid>
+				<guid isPermaLink="true">https://arbokraft.github.io/dummy/dummy-delete-me-copy-3/</guid>
 			</item>
 		
 			<item>
 				<title>You can delete this file</title>
-				<link>https://arbokraft.github.io//dummy/dummy-delete-me-copy-2/</link>
+				<link>https://arbokraft.github.io/dummy/dummy-delete-me-copy-2/</link>
 				<pubDate>Sat, 10 Oct 2015 00:00:00 +0200</pubDate>
 				<description></description>
-				<guid isPermaLink="true">https://arbokraft.github.io//dummy/dummy-delete-me-copy-2/</guid>
+				<guid isPermaLink="true">https://arbokraft.github.io/dummy/dummy-delete-me-copy-2/</guid>
 			</item>
 		
 	</channel>

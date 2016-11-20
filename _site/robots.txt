@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://arbokraft.github.io//sitemap.xml
+Sitemap: https://arbokraft.github.io/sitemap.xml
