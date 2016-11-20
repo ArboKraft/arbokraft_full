@@ -232,7 +232,7 @@
 
             
             
-              <li><a href="https://arbokraft.github.io/exercices/list/">Exercices</a></li>
+              <li><a href="https://arbokraft.github.io/exercices/">Exercices</a></li>
               <li class="divider"></li>
 
             
