@@ -241,7 +241,7 @@
 
             
             
-              <li><a href="https://arbokraft.github.io/exercices/">Exercices</a></li>
+              <li><a href="https://arbokraft.github.io/exercises/">Exercises</a></li>
               <li class="divider"></li>
 
             

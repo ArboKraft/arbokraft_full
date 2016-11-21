@@ -7,9 +7,9 @@ subheadline: "01"
 title: "Message in console"
 teaser: "How to write a message in he console"
 categories:
-  - exercices
+  - exercises
 tags:
-  - exercices
+  - exercises
   - mc.postToChat
   - console
 #

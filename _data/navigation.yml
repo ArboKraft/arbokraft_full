@@ -16,8 +16,8 @@
 #  - title: "Dropdown Menu 3"
 #    url: "#"
 
-- title: Exercices
-  url: "/exercices/"
+- title: Exercises
+  url: "/exercises/"
   side: left
   header:
     image_fullwidth: "you-can-delete-me-header.png"

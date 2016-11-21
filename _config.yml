@@ -51,8 +51,8 @@ logo: "logo.png"
 
 
 # Pagination path › Important for blog page in /blog/ to work
-#paginate_path: "exercices/page:num"
-#paginate_category: "exercices"
+#paginate_path: "exercicses/page:num"
+#paginate_category: "exercises"
 
 
 # Theme works best with Kramdown (using the table of contents function)
@@ -119,16 +119,18 @@ defaults:
 
   -
     scope:
-      path: "exercices"
-      type: "exercices"
+      path: "exercises"
+      type: "exercises"
     values:
+      category: "exercises"
+      layout: "page"
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: arbokraft     # Default author for posts
 
 collections:
-  exercices:
+  exercises:
       output: true
       permalink: /:collection/:path/
   resources:

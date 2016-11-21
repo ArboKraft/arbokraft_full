@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://arbokraft.github.io/</id>
 	<title>ArboKraft</title>
-	<updated>2016-11-21T00:03:48+01:00</updated>
+	<updated>2016-11-21T22:32:36+01:00</updated>
 
 	<subtitle>Learning programing and python the fun way : with Minecraft</subtitle>
 
@@ -178,9 +178,9 @@
 		</entry>
 	
 		<entry>
-			<id>https://arbokraft.github.io/exercices/01-Message-in-console/</id>
+			<id>https://arbokraft.github.io/exercises/01-Message-in-console/</id>
 			<title>Message in console</title>
-			<link href="https://arbokraft.github.io/exercices/01-Message-in-console/" rel="alternate" type="text/html" title="Message in console" />
+			<link href="https://arbokraft.github.io/exercises/01-Message-in-console/" rel="alternate" type="text/html" title="Message in console" />
 			<updated>2016-11-19T00:00:00+01:00</updated>
 
 			
@@ -196,15 +196,15 @@
 				</author>
 			
 			<summary>How to write a message in he console</summary>
-			<content type="html" xml:base="https://arbokraft.github.io/exercices/01-Message-in-console/">&lt;p&gt;Hello
+			<content type="html" xml:base="https://arbokraft.github.io/exercises/01-Message-in-console/">&lt;p&gt;Hello
 &lt;img src=&quot;https://arbokraft.github.io/images//ekans-arbok.png&quot; alt=&quot;Ekans and Arbok&quot; /&gt;&lt;/p&gt;
 </content>
 
 			
-				<category term="exercices" />
+				<category term="exercises" />
 			
 			
-				<category term="exercices" />
+				<category term="exercises" />
 			
 				<category term="mc.postToChat" />
 			
