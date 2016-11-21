@@ -117,17 +117,17 @@ defaults:
       comments: false
       author: arbokraft     # Default author for posts
 
-  -
-    scope:
-      path: "exercises"
-      type: "exercises"
-    values:
-      category: "exercises"
-      layout: "page"
-      show_meta: true   # Show metadata for all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: arbokraft     # Default author for posts
+  # -
+  #   scope:
+  #     path: "exercises"
+  #     type: "exercises"
+  #   values:
+  #     category: "exercises"
+  #     layout: "page"
+  #     show_meta: true   # Show metadata for all posts
+  #     # sidebar:        # Possible values › left, right › by default there will be no sidebar
+  #     comments: false
+  #     author: arbokraft     # Default author for posts
 
 collections:
   exercises:
