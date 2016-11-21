@@ -76,7 +76,7 @@ mc = minecraft.Minecraft()
 x,y,z = mc.player.getPos()
 #Some blocks have subid, like Wool. Instead of 35 you can use
 # 35,10 to get purple wool for instance or 35,14 for Red . 
-# 35,0  or 35 will be White Wool
+# 35,0  or 35 will be white Wool
 mc.setBlock(x,y-1,z,35,10)
 {% endhighlight %}
 
