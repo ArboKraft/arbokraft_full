@@ -18,7 +18,7 @@ show_meta: true
 # Styling
 #
 header:
-  image_fullwidth: console-hello-arbocraft.png
+  image_fullwidth: flat-grass-header.png
 image:
   header: "test header"
   thumb: "01-console-thumb.png"
@@ -37,4 +37,4 @@ mc.postToChat("Hello ArboKraft")
 
 This should render as :
 
-![Console Message]({{ site.urlimg }}/console-hello-arbocraft.png)
+![Console Message]({{ site.urlimg }}/01-HelloArboKraft.png)

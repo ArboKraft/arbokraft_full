@@ -18,7 +18,7 @@ show_meta: true
 # Styling
 #
 header:
-  image_fullwidth: console-hello-arbocraft.png
+  image_fullwidth: coordinates-header.png
 image:
   header: "test header"
   thumb: "minecraft-coordinates.png"
@@ -53,6 +53,11 @@ x,y,z = mc.player.getPos()
 mc.setBlock(x+1,y,z+1,2)
 {% endhighlight %}
 
+Which should gives you :
+
+![Coordinates in Minecraft 2]({{ site.urlimg }}02-y0-grass.png)
+*A block of grass on the ground*
+
 In this example we'll put it just below the player :
 
 {% highlight python %}
@@ -62,9 +67,14 @@ mc = minecraft.Minecraft()
 #Here we get the player position
 x,y,z = mc.player.getPos()
 #Here we will use the block ID name but we could have used 
-#57 instead of BLOCK.Diamond_block
-mc.setBlock(x,y-1,z,BLOCK.diamond_block)
+#57 instead of block.DIAMOND_BLOCK
+mc.setBlock(x,y-1,z,block.DIAMOND_BLOCK)
 {% endhighlight %}
+
+Which should gives you :
+
+![Coordinates in Minecraft 2]({{ site.urlimg }}02-y-1-diamond.png)
+*A block of  diamond below you*
 
 And now above the ground a purple wool block
 
@@ -77,7 +87,12 @@ x,y,z = mc.player.getPos()
 #Some blocks have subid, like Wool. Instead of 35 you can use
 # 35,10 to get purple wool for instance or 35,14 for Red . 
 # 35,0  or 35 will be white Wool
-mc.setBlock(x,y-1,z,35,10)
+mc.setBlock(x,y+2,z,35,10)
 {% endhighlight %}
+
+Which should gives you :
+
+![Coordinates in Minecraft 2]({{ site.urlimg }}02-y1-woolviolet.png)
+*A block of violet wool above the ground*
 
 [MacFreek34570]: <http://minecraft.gamepedia.com/User:MacFreek34570>
