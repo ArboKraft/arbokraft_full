@@ -4,6 +4,7 @@ layout: page
 # Content
 #
 subheadline: "Exercise 04"
+date:   2016-11-19 00:04:47 +0100
 title: "Spawning a line of blocks - While Loop - Modulo"
 teaser: "Spawning a line of blocks -  using a while loop - playing with modulo"
 categories:
@@ -17,7 +18,7 @@ show_meta: true
 header:
   image_fullwidth: line-header.png
 image:
-  thumb: "line-thumb.png"
+  thumb: "exercises/04-thumb.png"
 ---
 
 
@@ -51,7 +52,7 @@ while counter < size:
 {% endhighlight %}
 
 And here is what you should get :
-![10 blocks line of Spruce Wood Plank]({{ site.urlimg }}04-line-wood.png)
+![10 blocks line of Spruce Wood Plank]({{ site.urlimg }}exercises/04-line-wood.png)
 *10 blocks line of Spruce Wood Plank*
 
 You can play with size to see this line growing.
@@ -89,11 +90,40 @@ while counter < size:
 #The Loop will stop when counter will be equal to size
 {% endhighlight %}
 
-And voila !
-![10 blocks line of alternating Wood Plank]({{ site.urlimg }}04-line-wood-modulo.png)
+You should get something like:
+![10 blocks line of alternating Wood Plank]({{ site.urlimg }}exercises/04-line-wood-modulo.png)
 *10 blocks line of alternating Wood Plank*
 
-You can do the same with Wool (35) and a module 16.
+We can do the same with Wool (35) and a module 16 (as there are 16 color of wool). We'll also make a diagonal playing with the z coordinate as well
+
+
+{% highlight python %}
+import mcpi.minecraft as minecraft
+import mcpi.block as block
+mc = minecraft.Minecraft()
+
+#Here we get the player position
+x,y,z = mc.player.getPos()
+
+#We will set the number of blocks we want in a variable
+size = 32
+#We will use a counter to store the number we already built.
+counter = 0
+
+#And here is the while loop. 
+while counter < size:
+#We create our block and at each iteration we will move x and z from 1 so we'll get a diagonal
+  mc.setBlock(x+counter,y,z+counter,35,counter%16)
+#We need to increment our counter each time we set a block to get the expected result
+  counter = counter+1
+#The Loop will stop when counter will be equal to size
+{% endhighlight %}
+
+And voila !
+![32 blocks diagonal line of wool alternating colors]({{ site.urlimg }}exercises/04-line-diag-wool.png)
+*32 blocks diagonal line of wool alternating colors*
+04-line-diag-wool.png
+
 
 [^1]: <i class="fa fa-wikipedia-w" aria-hidden="true"></i>[While Loop]
 [^2]: <i class="fa fa-wikipedia-w" aria-hidden="true"></i>[Modulo]

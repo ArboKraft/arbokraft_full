@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Exercise 01"
 title: "Message in console"
-date:   2016-11-19 16:11:47 +0100
+date:   2016-11-19 00:01:47 +0100
 teaser: "In this first lesson we will show how to write a message in the console."
 categories:
   - exercises
@@ -21,7 +21,7 @@ header:
   image_fullwidth: flat-grass-header.png
 image:
   header: "test header"
-  thumb: "01-console-thumb.png"
+  thumb: "exercises/01-console-thumb.png"
 ---
 
 
@@ -37,4 +37,4 @@ mc.postToChat("Hello ArboKraft")
 
 This should render as :
 
-![Console Message]({{ site.urlimg }}/01-HelloArboKraft.png)
+![Console Message]({{ site.urlimg }}/exercises/01-HelloArboKraft.png)

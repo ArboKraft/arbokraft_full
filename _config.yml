@@ -132,10 +132,10 @@ defaults:
 collections:
   exercises:
       output: true
-      permalink: /:collection/:path/
+      permalink: /exercises/:path/
   resources:
       output: true
-      permalink: /:collection/:path/
+      permalink: /blog/:path/
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____

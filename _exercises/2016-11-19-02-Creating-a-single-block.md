@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Exercise 02"
 title: "Creating a Single Block"
-date:   2016-11-19 16:11:47 +0100
+date:   2016-11-19 00:02:47 +0100
 teaser: "In this exercise we'll learn coordinates and how to spawn unique simple blocks"
 categories:
   - exercises
@@ -20,20 +20,19 @@ show_meta: true
 header:
   image_fullwidth: coordinates-header.png
 image:
-  header: "test header"
-  thumb: "minecraft-coordinates.png"
+  thumb: "exercises/minecraft-coordinates.png"
 ---
 
 
 Before spawning blocks we first need to understand how they disposed in Minecraft world.
 These images are explicites :
 
-![Coordinates in Minecraft]({{ site.urlimg }}/minecraft-coordinates.png)
+![Coordinates in Minecraft]({{ site.urlimg }}exercises/minecraft-coordinates.png)
 *Coordinates in Minecraft by [MacFreek34570]*
 
 and:
 
-![Coordinates in Minecraft 2]({{ site.urlimg }}/minecraft-coordinates-2.jpg)
+![Coordinates in Minecraft 2]({{ site.urlimg }}exercises/minecraft-coordinates-2.jpg)
 *Coordinates in Minecraft*
 
 Using this coordinate system you can then spawn a block using the function *mc.setBlock*.
@@ -55,7 +54,7 @@ mc.setBlock(x+1,y,z+1,2)
 
 Which should gives you :
 
-![Coordinates in Minecraft 2]({{ site.urlimg }}02-y0-grass.png)
+![Coordinates in Minecraft 2]({{ site.urlimg }}exercises/02-y0-grass.png)
 *A block of grass on the ground*
 
 In this example we'll put it just below the player :
@@ -73,7 +72,7 @@ mc.setBlock(x,y-1,z,block.DIAMOND_BLOCK)
 
 Which should gives you :
 
-![Coordinates in Minecraft 2]({{ site.urlimg }}02-y-1-diamond.png)
+![Coordinates in Minecraft 2]({{ site.urlimg }}exercises/02-y-1-diamond.png)
 *A block of  diamond below you*
 
 And now above the ground a purple wool block
@@ -92,7 +91,7 @@ mc.setBlock(x,y+2,z,35,10)
 
 Which should gives you :
 
-![Coordinates in Minecraft 2]({{ site.urlimg }}02-y1-woolviolet.png)
+![Coordinates in Minecraft 2]({{ site.urlimg }}exercises/02-y1-woolviolet.png)
 *A block of violet wool above the ground*
 
 [MacFreek34570]: <http://minecraft.gamepedia.com/User:MacFreek34570>

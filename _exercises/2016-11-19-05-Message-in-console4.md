@@ -3,9 +3,10 @@ layout: page
 #
 # Content
 #
-subheadline: "04"
-title: "Message in console 4"
-teaser: "How to write a message in he console 4"
+subheadline: "Exercise 5"
+date:   2016-11-19 00:05:47 +0100
+title: "More while loop (nested) and more color"
+teaser: "We'll play with colors"
 categories:
   - exercises
 tags:
@@ -24,6 +25,4 @@ image:
 ---
 
 
-
-Hello
-![Ekans and Arbok]({{ site.urlimg }}/ekans-arbok.png)
+Exercise 5 here
