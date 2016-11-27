@@ -13,6 +13,7 @@ tags:
   - exercises
   - mc.postToChat
   - console
+show_meta: true
 #
 # Styling
 #

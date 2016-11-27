@@ -125,8 +125,8 @@ And voila !
 04-line-diag-wool.png
 
 
-[^1]: <i class="fa fa-wikipedia-w" aria-hidden="true"></i>[While Loop]
-[^2]: <i class="fa fa-wikipedia-w" aria-hidden="true"></i>[Modulo]
+[^1]: <i class="fa fa-wikipedia-w" aria-hidden="true"> </i>[While Loop]
+[^2]: <i class="fa fa-wikipedia-w" aria-hidden="true"> </i>[Modulo]
 
 
 [While Loop]: <https://en.wikipedia.org/wiki/While_loop>

@@ -5,11 +5,8 @@ meta_title: "Contact Us"
 subheadline: ""
 teaser: ""
 permalink: "/contact/"
+header:
+  image_fullwidth: contact-header.png
 ---
 
-- [Wufoo][1]
-- [Google Forms][2]
-
-
- [1]: http://www.wufoo.com/
- [2]: https://www.google.com/intl/de_de/forms/about/
+You can drop us a mail at :   Arbokraft-contact @ hurel dot info

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 #
 # Content
 #
@@ -17,11 +17,11 @@ tags:
 image:
   header: ""
   thumb: "posts/01-hello-thumb.png"
-  homepage: "you-can-delete-me-homepage.png"
+#  homepage: "you-can-delete-me-homepage.png"
 ---
 
 
-Welcome to ArboKraft !
 ![Ekans and Arbok]({{ site.urlimg }}/ekans-arbok.png)
-We shared our first exercises and will be updating with new one from time to time.
-We hope you'll find those useful !
+
+Done. We published our first exercises and will be updating with new one from time to time.<br/>
+We hope you'll find those useful !<br/>
